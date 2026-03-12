@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://bos2t6u2qolki"]
+
+[ext_resource type="PackedScene" uid="uid://ca23mgtj4wixp" path="res://scene/player.tscn" id="3_osy0p"]
+
+[node name="end" type="Node2D" unique_id=2096051733]
+
+[node name="Label" type="Label" parent="." unique_id=371661429]
+offset_left = 26.0
+offset_top = -51.0
+offset_right = 256.0
+offset_bottom = 76.0
+text = "You collected all the orb.
+Game Ended. Thank You
+I will keep updating the game
+and add more feature. This is 
+my first game."
+
+[node name="player" parent="." unique_id=119936891 instance=ExtResource("3_osy0p")]
