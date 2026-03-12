@@ -1,7 +1,7 @@
 **Crimson.Abyss**
 
 This is my first game made in Godot!
-In Vampire Orb Quest, you play as a vampire on a thrilling mission to collect all the orbs from the abyss. Explore the dark world, avoid dangers, and master your vampire skills.
+In Crimson.Abyss, you play as a vampire on a thrilling mission to collect all the orbs from the abyss.
 
 How to Play
 Move: Arrow keys
